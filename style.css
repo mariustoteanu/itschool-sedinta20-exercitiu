@@ -182,6 +182,7 @@ nav .submenu {
   background-color: var(--bg-dark);
 
   z-index: 3;
+  visibility: hidden;
 }
 
 nav .submenu a {
